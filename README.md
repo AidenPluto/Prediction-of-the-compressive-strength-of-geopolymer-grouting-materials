@@ -5,7 +5,6 @@ used in the manuscript:
 
 **“Explainable machine learning prediction of compressive strength in ternary industrial waste-based geopolymer grouting material”**
 
-submitted to *Powder Technology*.
 
 The purpose of this repository is to support transparency, reproducibility, and reuse of the
 experimental data and modeling framework presented in the paper.
